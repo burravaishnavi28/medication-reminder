@@ -1,4 +1,4 @@
-Interactive Medication Reminder Web Application:
+Interactive Medication Reminder Web Application:---
 An interactive web application to help users manage and track their medications effectively.
 
 Features
