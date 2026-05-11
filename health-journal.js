@@ -4,7 +4,7 @@ const selectedMood = document.getElementById("selected-mood");
 const journalEntry = document.getElementById("journal-entry");
 const saveEntryBtn = document.getElementById("save-entry-btn");
 const calendar = document.getElementById("calendar");
-
+gdvgdybsusijjshhbdgvdg
 // Variables
 let currentMood = "None";
 const journalData = JSON.parse(localStorage.getItem("journalData")) || {};
